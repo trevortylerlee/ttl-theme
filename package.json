@@ -1,0 +1,21 @@
+{
+  "name": "ttl-theme",
+  "displayName": "ttl-theme",
+  "description": "theme for me, trevor tyler lee",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ttl-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ttl-theme-color-theme.json"
+      }
+    ]
+  }
+}
