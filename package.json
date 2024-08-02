@@ -10,8 +10,8 @@
   },
   "icon": "images/ttl.jpg",
   "galleryBanner": {
-    "color": "#3232FF",
-    "theme": "dark"
+    "color": "#00ed08",
+    "theme": "light"
   },
   "pricing": "Free",
   "license": "MIT",
