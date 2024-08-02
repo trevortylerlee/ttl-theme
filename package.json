@@ -1,10 +1,22 @@
 {
   "name": "ttl-theme",
   "displayName": "ttl-theme",
+  "version": "0.0.2",
+  "publisher": "trevortylerlee",
   "description": "theme for me, trevor tyler lee",
-  "version": "0.0.1",
+  "author": {
+    "name": "Trevor Tyler Lee",
+    "email": "trevortylerlee@gmail.com"
+  },
+  "icon": "images/icon.jpg",
+  "galleryBanner": {
+    "color": "#3232FF",
+    "theme": "dark"
+  },
+  "pricing": "Free",
+  "license": "MIT",
   "engines": {
-    "vscode": "^1.89.0"
+    "vscode": "^1.8.0"
   },
   "categories": [
     "Themes"
@@ -17,5 +29,13 @@
         "path": "./themes/ttl-theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trevortylerlee/ttl-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/trevortylerlee/ttl-theme/issues",
+    "email": "trevortylerlee@gmail.com"
   }
 }
